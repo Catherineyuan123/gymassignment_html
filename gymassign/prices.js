@@ -1,0 +1,44 @@
+$(document).ready(function(){
+    $("#card1").mouseover(function(){
+        $("#card1").css("background-color","deepskyblue");
+        $("#head1,#h1,#para1").css("color","white");
+        $("#btn1").css("background-color","white");
+    })
+    $("#card1").mouseout(function(){
+        $("#card1").css("background-color","white");
+        $("#head1,#h1,#para1").css("color","deepskyblue");
+        $("#btn1").css("background-color","deepskyblue");
+    })
+    $("#card2").mouseover(function(){
+        $("#card2").css("background-color","deepskyblue");
+        $("#head2,#h2,#para2").css("color","white");
+        $("#btn2").css("background-color","white");
+    })
+    $("#card2").mouseout(function(){
+        $("#card2").css("background-color","white");
+        $("#head2,#h2,#para2").css("color","deepskyblue");
+        $("#btn2").css("background-color","deepskyblue");
+    })
+    $("#card3").mouseover(function(){
+        $("#card3").css("background-color","deepskyblue");
+        $("#head3,#h3,#para3").css("color","white");
+        $("#btn3").css("background-color","white");
+    })
+    $("#card3").mouseout(function(){
+        $("#card3").css("background-color","white");
+        $("#head3,#h3,#para3").css("color","deepskyblue");
+        $("#btn3").css("background-color","deepskyblue");
+    })
+    $("#card4").mouseover(function(){
+        $("#card4").css("background-color","deepskyblue");
+        $("#head4,#h4,#para4").css("color","white");
+        $("#btn4").css("background-color","white");
+    })
+    $("#card4").mouseout(function(){
+        $("#card4").css("background-color","white");
+        $("#head4,#h4,#para4").css("color","deepskyblue");
+        $("#btn4").css("background-color","deepskyblue");
+    })
+   
+})
+   

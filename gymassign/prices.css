@@ -1,0 +1,65 @@
+.body{
+   font-family: Georgia;
+}
+.icon{
+    background-color:deepskyblue;
+}
+
+.navbar-nav .nav-item{
+    padding-left:10px;
+    margin-right:20px;
+}
+.mainmenu{
+    background-color:  rgb(0, 225, 255);
+}
+
+.navbar-nav li a:hover{
+    background-color:deepskyblue ;
+}
+.button{
+        margin:5px;
+        background-color:rgb(34, 210, 241) ;
+        position:relative;
+        top:-39px;
+        left:280px;
+        width:7%;
+        height:35px;
+        border:1px solid rgb(34, 210, 241);
+}
+.img1{
+    border-bottom:5px solid  rgb(34, 210, 241) ;
+}
+
+.card-body1{
+    border:2px solid  rgb(34, 210, 241);
+}
+.p{
+    font-size: 17px;
+}
+.list1 {
+    list-style-type: none;
+}
+.list1 li{
+    float: left;
+}
+.container-fluid{
+    margin-top: -40px;
+    
+}
+
+.container-fluid1{
+    background-color:  rgb(0, 225, 255);
+}
+.container-fluid2{
+    background-color: deepskyblue;
+    margin-top: -24px;
+}
+.ul3{
+    list-style-type: none;
+
+}
+.ul3 li{
+    float: left;
+  padding-left: 20px;
+    
+}
